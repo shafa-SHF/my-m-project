@@ -1,0 +1,12 @@
+# My NPM Package
+This project demonstrates modularization in Node.js.
+
+## NPM Package
+You can find my published NPM package here:
+👉 https://www.npmjs.com/package/my-npm-package-shafa?activeTab=code
+
+## How to Install
+npm install my-npm-package-shafa
+
+## Author
+Shafa

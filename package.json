@@ -1,12 +1,13 @@
 {
-  "name": "my-npm-package",
+  "name": "my-npm-package-shafa",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple math project demonstrating Node.js modularization",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["math", "node", "modules"],
+  "author": "Naina Mohammed Fathima Saafa",
   "license": "ISC"
 }
+
